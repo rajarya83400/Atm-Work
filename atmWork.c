@@ -20,7 +20,6 @@ int main()
 
         do
         {
-
             printf("select opertation: \n");
             printf("1 = check balance\n");
             printf("2 = deposite\n");
@@ -214,7 +213,6 @@ int main()
         int main_balance;
         total_balance = 10000;
         commonpin=atmpin2;        
-
 
         do
         {
