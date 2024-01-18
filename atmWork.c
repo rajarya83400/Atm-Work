@@ -276,8 +276,6 @@ int main()
 
 
 
-
-
             case 3: // withdrow start
 
                 printf("Pin Code Daale.");
